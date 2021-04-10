@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+ha2/data
+ha2/tmp
+.DS_Store
+ha2/.DS_Store
